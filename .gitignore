@@ -1,0 +1,5 @@
+configuration.json
+data.json
+venv/*
+.vscode
+*.pyc
